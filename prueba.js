@@ -1,5 +1,5 @@
 let process = require("process");
-let archivo = require("./funcionesDeTareas");
+let archivo = require("./prueba1");
 
 let accion = process.argv[2];
 
