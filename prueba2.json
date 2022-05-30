@@ -1,0 +1,14 @@
+[
+    {
+        "titulo" : "tratando de romper git",
+        "estado" : "en proceso"
+    },
+    {
+        "titulo" : "hacer tarea para Vicky",
+        "estado" : "pendiente"
+    },
+    {
+        "titulo" : "ponerse al dia en playground",
+        "estado" : "terminado"
+    }
+]
